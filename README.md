@@ -1,5 +1,7 @@
 # ApplicationTemplate
 
+Blazer Web Server Pages custom template with CRUD Repositories and Unit of Work.
+
 @*Before export to template*@
 @*Uncomment $safeprojectname$ code lines and comment out corresponding code lines*@
 
