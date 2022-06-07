@@ -1,6 +1,6 @@
 # ApplicationTemplate
 
-Blazer Web Server Pages custom template with CRUD Repositories and Unit of Work using Entity Framework.
+.NET 6 Blazer Web Server Pages custom template with CRUD Repositories and Unit of Work using Entity Framework.
 
 Download usable template here: https://github.com/tysongibby/ApplicationTemplate/releases
 
