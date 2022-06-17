@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 
-namespace Application
+namespace Application.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
